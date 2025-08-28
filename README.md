@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+I'm+Sameer+Gautam;Full+Stack+Developer;Web3+%26+Blockchain+Enthusiast;Building+QuickQ+%26+PGLoom" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+I'm+Sameer+Gautam;Full+Stack+Developer;Web3+%26+Blockchain+Enthusiast;Building+USP+%26+PGLoom" />
 
   <!-- Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=shribreeze&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180px"/>
